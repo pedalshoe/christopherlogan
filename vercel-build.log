@@ -1,0 +1,50 @@
+=== INSTALL ===
+
+added 358 packages, and audited 359 packages in 4s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+2 vulnerabilities (1 moderate, 1 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+=== BUILD ===
+
+> cml-portfolio@1.0.0 build
+> next build
+
+  ▲ Next.js 14.2.35
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/7) ...
+   Generating static pages (1/7) 
+   Generating static pages (3/7) 
+   Generating static pages (5/7) 
+ ✓ Generating static pages (7/7)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /_not-found                          873 B          88.1 kB
+└ ● /[locale]                            734 B            88 kB
+    ├ /en
+    ├ /es
+    ├ /fr
+    └ /it
++ First Load JS shared by all            87.2 kB
+  ├ chunks/117-d20e68d9a6d8e294.js       31.7 kB
+  ├ chunks/fd9d1056-10edde171a382804.js  53.6 kB
+  └ other shared chunks (total)          1.86 kB
+
+
+ƒ Middleware                             26.6 kB
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses getStaticProps)
+
