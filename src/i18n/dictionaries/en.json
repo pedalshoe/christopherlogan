@@ -1,0 +1,92 @@
+{
+  "header": {
+    "role": "Technology Architect and Executive Consultant",
+    "tagline": "Technology architect and executive consultant specializing in AI/ML, cloud architecture, enterprise modernization, and regulatory compliance.",
+    "firm": "Consulting firm: Worlwin LLC."
+  },
+  "switcher": {
+    "label": "Language"
+  },
+  "sections": {
+    "portfolio": "Portfolio Sites",
+    "aiml": "AI and ML Projects",
+    "enterprise": "Enterprise and Infrastructure",
+    "clients": "Client Site Upgrades",
+    "presentations": "Presentations",
+    "science": "Science and Defense Work",
+    "source": "Source and Resume"
+  },
+  "linkTypes": {
+    "repo": "Repo",
+    "live": "Live",
+    "demo": "Demo",
+    "upgrade": "Upgrade",
+    "current": "Current",
+    "wiki": "Wiki",
+    "samples": "Samples",
+    "photo": "Photo"
+  },
+  "projects": {
+    "rag-pipeline": {
+      "title": "RAG and LLM Chaining Pipeline",
+      "note": "LangChain, Ollama (llama3 + mistral), ChromaDB, n8n, Docker Compose. Production-grade multi-model orchestration stack."
+    },
+    "site-upgrade": {
+      "title": "AI-Assisted Site Upgrade (Claude)",
+      "note": "Modernization of Dr. Stacy A.S. Williams' academic site. Claude-assisted React/Next.js SPA with multi-locale support."
+    },
+    "enterprise-mod": {
+      "title": "Enterprise Modernization Demo",
+      "note": "CDN migration patterns, white-label platform architecture, legacy-to-cloud transformation reference implementation."
+    },
+    "cloud-arch": {
+      "title": "Cloud Architecture Demo",
+      "note": "Interactive cloud architecture reference. Visualizes multi-tier infrastructure patterns, service mesh, and deployment topologies."
+    },
+    "bny-cdn": {
+      "title": "BNY Mellon CDN Platform",
+      "note": "Production CDN serving 100+ white-label applications via Akamai NetStorage. 95-99% server traffic offload at enterprise scale."
+    },
+    "bigdata": {
+      "title": "Big-Data Dashboard (Laravel-style React)",
+      "note": "Full-stack data visualization platform with real-time climate data feeds. Demonstrates Laravel-pattern architecture in React."
+    },
+    "tatcon": {
+      "title": "TATCON-SG",
+      "note": "Modernized front-end for tactical consulting firm. Redesigned for mobile-first delivery with updated component architecture."
+    },
+    "msinter": {
+      "title": "MS Interdigital",
+      "note": "Performance and visual modernization for technology services company. Improved CLS, LCP, and accessibility scoring."
+    },
+    "3a": {
+      "title": "3A Enterprises LLC",
+      "note": "Full ground-up build for business services client. Delivered React SPA with custom CMS integration and automated deployment pipeline."
+    },
+    "aeos": {
+      "title": "AEOS Telescope System (Haleakala)",
+      "note": "Adaptive electro-optical system. Contributed UX, real-time data processing, and RTOS integration. Delivered Air Force on-site software maintenance training. 3.67m aperture, Maui, HI."
+    },
+    "tsc": {
+      "title": "TSC - Defense Software Samples",
+      "note": "Classification interface samples and UX artifacts from defense software work. Radar systems, signal processing, and secure platform engineering."
+    },
+    "aeos-photo": {
+      "title": "AEOS on Haleakala",
+      "note": "Field photograph, Maui summit site"
+    },
+    "sarnik-photo": {
+      "title": "Sarnik Team Photo",
+      "note": "Engineering team on-site at Haleakala"
+    }
+  },
+  "presentations": {
+    "exec": "Executive Presentation"
+  },
+  "source": {
+    "github": "GitHub (pedalshoe)"
+  },
+  "footer": {
+    "location": "Goshen, NY"
+  }
+}

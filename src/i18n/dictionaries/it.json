@@ -1,0 +1,92 @@
+{
+  "header": {
+    "role": "Architetto Tecnologico e Consulente Esecutivo",
+    "tagline": "Architetto tecnologico e consulente esecutivo specializzato in IA/ML, architettura cloud, modernizzazione aziendale e conformita normativa.",
+    "firm": "Societa di consulenza: Worlwin LLC."
+  },
+  "switcher": {
+    "label": "Lingua"
+  },
+  "sections": {
+    "portfolio": "Siti del Portfolio",
+    "aiml": "Progetti di IA e ML",
+    "enterprise": "Azienda e Infrastruttura",
+    "clients": "Aggiornamenti Siti Clienti",
+    "presentations": "Presentazioni",
+    "science": "Lavori Scientifici e per la Difesa",
+    "source": "Codice Sorgente e Curriculum"
+  },
+  "linkTypes": {
+    "repo": "Repository",
+    "live": "Online",
+    "demo": "Demo",
+    "upgrade": "Aggiornamento",
+    "current": "Attuale",
+    "wiki": "Wiki",
+    "samples": "Campioni",
+    "photo": "Foto"
+  },
+  "projects": {
+    "rag-pipeline": {
+      "title": "Pipeline di Concatenamento RAG e LLM",
+      "note": "LangChain, Ollama (llama3 + mistral), ChromaDB, n8n, Docker Compose. Stack di orchestrazione multi-modello di livello produzione."
+    },
+    "site-upgrade": {
+      "title": "Aggiornamento Sito Assistito da IA (Claude)",
+      "note": "Modernizzazione del sito accademico della Dr.ssa Stacy A.S. Williams. SPA React/Next.js assistita da Claude con supporto multilingue."
+    },
+    "enterprise-mod": {
+      "title": "Demo di Modernizzazione Aziendale",
+      "note": "Modelli di migrazione CDN, architettura di piattaforma white-label, implementazione di riferimento per la trasformazione dal legacy al cloud."
+    },
+    "cloud-arch": {
+      "title": "Demo di Architettura Cloud",
+      "note": "Riferimento interattivo di architettura cloud. Visualizza modelli di infrastruttura multi-livello, service mesh e topologie di distribuzione."
+    },
+    "bny-cdn": {
+      "title": "Piattaforma CDN di BNY Mellon",
+      "note": "CDN di produzione che serve oltre 100 applicazioni white-label tramite Akamai NetStorage. 95-99% di alleggerimento del traffico server su scala aziendale."
+    },
+    "bigdata": {
+      "title": "Dashboard Big Data (React stile Laravel)",
+      "note": "Piattaforma di visualizzazione dati full-stack con flussi di dati climatici in tempo reale. Dimostra l'architettura in stile Laravel in React."
+    },
+    "tatcon": {
+      "title": "TATCON-SG",
+      "note": "Front-end modernizzato per una societa di consulenza tattica. Riprogettato per la distribuzione mobile-first con architettura dei componenti aggiornata."
+    },
+    "msinter": {
+      "title": "MS Interdigital",
+      "note": "Modernizzazione delle prestazioni e visiva per un'azienda di servizi tecnologici. Migliorati i punteggi CLS, LCP e di accessibilita."
+    },
+    "3a": {
+      "title": "3A Enterprises LLC",
+      "note": "Costruzione completa da zero per un cliente di servizi alle imprese. SPA React con integrazione CMS personalizzata e pipeline di distribuzione automatizzata."
+    },
+    "aeos": {
+      "title": "Sistema di Telescopio AEOS (Haleakala)",
+      "note": "Sistema elettro-ottico adattivo. Contributo a UX, elaborazione dati in tempo reale e integrazione RTOS. Erogata formazione sulla manutenzione del software in loco per l'Aeronautica. Apertura di 3.67m, Maui, HI."
+    },
+    "tsc": {
+      "title": "TSC - Campioni di Software per la Difesa",
+      "note": "Campioni di interfaccia di classificazione e artefatti UX da lavori di software per la difesa. Sistemi radar, elaborazione del segnale e ingegneria di piattaforme sicure."
+    },
+    "aeos-photo": {
+      "title": "AEOS su Haleakala",
+      "note": "Fotografia sul campo, vetta di Maui"
+    },
+    "sarnik-photo": {
+      "title": "Foto del Team Sarnik",
+      "note": "Team di ingegneria in loco a Haleakala"
+    }
+  },
+  "presentations": {
+    "exec": "Presentazione Esecutiva"
+  },
+  "source": {
+    "github": "GitHub (pedalshoe)"
+  },
+  "footer": {
+    "location": "Goshen, NY"
+  }
+}

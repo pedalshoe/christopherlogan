@@ -1,0 +1,92 @@
+{
+  "header": {
+    "role": "Architecte Technologique et Consultant Executif",
+    "tagline": "Architecte technologique et consultant executif specialise en IA/ML, architecture cloud, modernisation d'entreprise et conformite reglementaire.",
+    "firm": "Cabinet de conseil : Worlwin LLC."
+  },
+  "switcher": {
+    "label": "Langue"
+  },
+  "sections": {
+    "portfolio": "Sites de Portfolio",
+    "aiml": "Projets IA et ML",
+    "enterprise": "Entreprise et Infrastructure",
+    "clients": "Mises a Niveau de Sites Clients",
+    "presentations": "Presentations",
+    "science": "Travaux Scientifiques et de Defense",
+    "source": "Code Source et CV"
+  },
+  "linkTypes": {
+    "repo": "Depot",
+    "live": "En Ligne",
+    "demo": "Demo",
+    "upgrade": "Mise a Niveau",
+    "current": "Actuel",
+    "wiki": "Wiki",
+    "samples": "Echantillons",
+    "photo": "Photo"
+  },
+  "projects": {
+    "rag-pipeline": {
+      "title": "Pipeline d'Enchainement RAG et LLM",
+      "note": "LangChain, Ollama (llama3 + mistral), ChromaDB, n8n, Docker Compose. Pile d'orchestration multi-modeles de niveau production."
+    },
+    "site-upgrade": {
+      "title": "Mise a Niveau de Site Assistee par IA (Claude)",
+      "note": "Modernisation du site academique de la Dre Stacy A.S. Williams. SPA React/Next.js assistee par Claude avec prise en charge multilingue."
+    },
+    "enterprise-mod": {
+      "title": "Demo de Modernisation d'Entreprise",
+      "note": "Modeles de migration CDN, architecture de plateforme en marque blanche, implementation de reference de transformation du legacy vers le cloud."
+    },
+    "cloud-arch": {
+      "title": "Demo d'Architecture Cloud",
+      "note": "Reference interactive d'architecture cloud. Visualise les modeles d'infrastructure multi-niveaux, le maillage de services et les topologies de deploiement."
+    },
+    "bny-cdn": {
+      "title": "Plateforme CDN de BNY Mellon",
+      "note": "CDN de production servant plus de 100 applications en marque blanche via Akamai NetStorage. 95-99% de delestage du trafic serveur a l'echelle de l'entreprise."
+    },
+    "bigdata": {
+      "title": "Tableau de Bord Big Data (React style Laravel)",
+      "note": "Plateforme de visualisation de donnees full-stack avec flux de donnees climatiques en temps reel. Demontre l'architecture de modele Laravel en React."
+    },
+    "tatcon": {
+      "title": "TATCON-SG",
+      "note": "Front-end modernise pour un cabinet de conseil tactique. Repense pour une diffusion mobile d'abord avec une architecture de composants mise a jour."
+    },
+    "msinter": {
+      "title": "MS Interdigital",
+      "note": "Modernisation des performances et visuelle pour une entreprise de services technologiques. Amelioration des scores CLS, LCP et d'accessibilite."
+    },
+    "3a": {
+      "title": "3A Enterprises LLC",
+      "note": "Construction complete a partir de zero pour un client de services aux entreprises. SPA React avec integration CMS personnalisee et pipeline de deploiement automatise."
+    },
+    "aeos": {
+      "title": "Systeme de Telescope AEOS (Haleakala)",
+      "note": "Systeme electro-optique adaptatif. Contribution a l'UX, au traitement de donnees en temps reel et a l'integration RTOS. Formation a la maintenance logicielle sur site pour l'Armee de l'air. Ouverture de 3.67m, Maui, HI."
+    },
+    "tsc": {
+      "title": "TSC - Echantillons de Logiciels de Defense",
+      "note": "Echantillons d'interface de classification et artefacts UX issus de travaux de logiciels de defense. Systemes radar, traitement du signal et ingenierie de plateformes securisees."
+    },
+    "aeos-photo": {
+      "title": "AEOS sur Haleakala",
+      "note": "Photographie de terrain, sommet de Maui"
+    },
+    "sarnik-photo": {
+      "title": "Photo de l'Equipe Sarnik",
+      "note": "Equipe d'ingenierie sur site a Haleakala"
+    }
+  },
+  "presentations": {
+    "exec": "Presentation Executive"
+  },
+  "source": {
+    "github": "GitHub (pedalshoe)"
+  },
+  "footer": {
+    "location": "Goshen, NY"
+  }
+}
