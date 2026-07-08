@@ -61,7 +61,10 @@ export const aimlProjects: Project[] = [
   {
     id: "site-upgrade",
     accent: "green",
-    links: [{ type: "live", href: "https://swphd-upgrade.vercel.app", display: "swphd-upgrade.vercel.app" }],
+    links: [
+      { type: "upgrade", href: "https://swphd-upgrade.vercel.app/", display: "swphd-upgrade.vercel.app" },
+      { type: "current", href: "https://www.stacywilliamsphd.com/", display: "stacywilliamsphd.com" },
+    ],
     tags: ["React", "Next.js", "Claude API", "i18n"],
   },
 ];
