@@ -81,7 +81,8 @@
     }
   },
   "presentations": {
-    "exec": "Executive Presentation"
+    "exec": "Executive Presentation",
+    "cyber": "Cyber Posture Review"
   },
   "source": {
     "github": "GitHub (pedalshoe)"

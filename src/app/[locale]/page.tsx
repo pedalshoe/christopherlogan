@@ -7,7 +7,7 @@ import {
   clientProjects,
   scienceProjects,
   sciencePhotos,
-  presentationLink,
+  presentationLinks,
   sourceLink,
 } from "@/data/portfolio";
 import Header from "@/components/Header";
@@ -67,11 +67,14 @@ export default async function Page({ params }: Props) {
       <section className="mb-8">
         <SectionHeader label={dict.sections.presentations} />
         <div className="flex flex-col gap-2">
-          <LinkListItem
-            label={dict.presentations[presentationLink.id]}
-            href={presentationLink.href}
-            display={presentationLink.display}
-          />
+          {presentationLinks.map((item) => (
+            <LinkListItem
+              key={item.id}
+              label={dict.presentations[item.id]}
+              href={item.href}
+              display={item.display}
+            />
+          ))}
         </div>
       </section>
 
