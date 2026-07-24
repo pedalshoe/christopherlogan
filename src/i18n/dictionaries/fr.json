@@ -81,7 +81,8 @@
     }
   },
   "presentations": {
-    "exec": "Presentation Executive"
+    "exec": "Presentation Executive",
+    "cyber": "Revue de la Posture Cyber"
   },
   "source": {
     "github": "GitHub (pedalshoe)"

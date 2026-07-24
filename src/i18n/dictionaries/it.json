@@ -81,7 +81,8 @@
     }
   },
   "presentations": {
-    "exec": "Presentazione Esecutiva"
+    "exec": "Presentazione Esecutiva",
+    "cyber": "Revisione della Postura di Sicurezza Informatica"
   },
   "source": {
     "github": "GitHub (pedalshoe)"

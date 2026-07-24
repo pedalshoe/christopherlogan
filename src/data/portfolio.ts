@@ -172,14 +172,27 @@ export const sciencePhotos: Project[] = [
   },
 ];
 
-export const presentationLink = {
-  id: "exec",
-  href: "https://docs.google.com/presentation/d/1Y-ejOhQIxeusZWZ8aQ4py9GeHqvB5FPV/edit?usp=drive_link&ouid=100813764248825640225&rtpof=true&sd=true",
-  display: "docs.google.com/presentation/d/1Y-ejOhQIxeusZWZ8aQ4py9GeHqvB5FPV",
-};
+export interface LabeledLink {
+  id: string;
+  href: string;
+  display: string;
+}
 
-export const sourceLink = {
+export const presentationLinks: LabeledLink[] = [
+  {
+    id: "exec",
+    href: "https://docs.google.com/presentation/d/1Y-ejOhQIxeusZWZ8aQ4py9GeHqvB5FPV/edit?usp=drive_link&ouid=100813764248825640225&rtpof=true&sd=true",
+    display: "docs.google.com/presentation/d/1Y-ejOhQIxeusZWZ8aQ4py9GeHqvB5FPV",
+  },
+  {
+    id: "cyber",
+    href: "https://docs.google.com/presentation/d/1ZsyMbDWUIAdFdG2EvEkyxq204prbdX9fHKyk24iT4Tc/edit?usp=drive_link",
+    display: "docs.google.com/presentation/d/1ZsyMbDWUIAdFdG2EvEkyxq204prbdX9fHKyk24iT4Tc",
+  },
+];
+
+export const sourceLink: LabeledLink = {
   id: "github",
-  href: "https://github.com/pedalshoe/resume/blob/main/2025/",
-  display: "github.com/pedalshoe/resume/blob/main/2025/",
+  href: "https://github.com/pedalshoe/resume/tree/main/2026",
+  display: "github.com/pedalshoe/resume/tree/main/2026",
 };

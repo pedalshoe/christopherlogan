@@ -81,7 +81,8 @@
     }
   },
   "presentations": {
-    "exec": "Presentacion Ejecutiva"
+    "exec": "Presentacion Ejecutiva",
+    "cyber": "Revision de Postura Cibernetica"
   },
   "source": {
     "github": "GitHub (pedalshoe)"
