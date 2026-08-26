@@ -51,6 +51,10 @@
       "title": "Dashboard Big Data (React stile Laravel)",
       "note": "Piattaforma di visualizzazione dati full-stack con flussi di dati climatici in tempo reale. Dimostra l'architettura in stile Laravel in React."
     },
+    "campus-console": {
+      "title": "Console dei Sistemi del Campus (Integrazione Aziendale)",
+      "note": "Console autonoma per amministrare un ecosistema SaaS in stile Banner: pipeline di integrazione, automazione dei flussi di lavoro, livelli di esperienza personalizzata, reportistica istituzionale, un banco di lavoro SQL e un client API con un gate di controllo delle modifiche."
+    },
     "tatcon": {
       "title": "TATCON-SG",
       "note": "Front-end modernizzato per una societa di consulenza tattica. Riprogettato per la distribuzione mobile-first con architettura dei componenti aggiornata."

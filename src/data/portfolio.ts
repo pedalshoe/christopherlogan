@@ -60,7 +60,7 @@ export const aimlProjects: Project[] = [
   },
   {
     id: "site-upgrade",
-    accent: "green",
+    accent: "blue",
     links: [
       { type: "upgrade", href: "https://swphd-upgrade.vercel.app/", display: "swphd-upgrade.vercel.app" },
       { type: "current", href: "https://www.stacywilliamsphd.com/", display: "stacywilliamsphd.com" },
@@ -94,6 +94,12 @@ export const enterpriseProjects: Project[] = [
     links: [{ type: "demo", href: "https://laravel-climate-dashboard.vercel.app/", display: "laravel-climate-dashboard.vercel.app" }],
     tags: ["React", "Laravel", "Data Viz"],
   },
+  {
+    id: "campus-console",
+    accent: "blue",
+    links: [{ type: "demo", href: "https://campus-systems-console.vercel.app", display: "campus-systems-console.vercel.app" }],
+    tags: ["Ellucian Banner", "Data Connect", "SnapLogic", "SQL", "REST / SOAP"],
+  },
 ];
 
 export const clientProjects: Project[] = [
@@ -115,7 +121,7 @@ export const clientProjects: Project[] = [
   },
   {
     id: "3a",
-    accent: "green",
+    accent: "blue",
     links: [{ type: "live", href: "https://3aenterprisesllc.com", display: "3aenterprisesllc.com" }],
   },
 ];

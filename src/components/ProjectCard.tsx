@@ -24,6 +24,9 @@ export default function ProjectCard({ project, dict, full, compact }: Props) {
         compact ? "px-3.5 py-3" : "px-4 py-3.5",
         "before:absolute before:bottom-0 before:left-0 before:top-0 before:w-[3px] before:rounded-l-md before:content-['']",
         accentBar[project.accent],
+        // Green is a hover affordance rather than a fixed label: the accent bar
+        // shifts to accent2 (green) when the card is hovered.
+        "before:transition-colors hover:before:bg-accent2",
         full ? "sm:col-span-2" : "",
         "break-inside-avoid",
       ].join(" ")}

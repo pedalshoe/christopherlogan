@@ -51,6 +51,10 @@
       "title": "Big-Data Dashboard (Laravel-style React)",
       "note": "Full-stack data visualization platform with real-time climate data feeds. Demonstrates Laravel-pattern architecture in React."
     },
+    "campus-console": {
+      "title": "Campus Systems Console (Enterprise Integration)",
+      "note": "Self-contained console for administering a Banner-style SaaS ecosystem: integration pipelines, workflow automation, personalized experience layers, institutional reporting, a SQL workbench, and an API client with a change-control gate."
+    },
     "tatcon": {
       "title": "TATCON-SG",
       "note": "Modernized front-end for tactical consulting firm. Redesigned for mobile-first delivery with updated component architecture."

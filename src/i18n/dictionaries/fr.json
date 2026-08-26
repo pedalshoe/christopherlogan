@@ -51,6 +51,10 @@
       "title": "Tableau de Bord Big Data (React style Laravel)",
       "note": "Plateforme de visualisation de donnees full-stack avec flux de donnees climatiques en temps reel. Demontre l'architecture de modele Laravel en React."
     },
+    "campus-console": {
+      "title": "Console des Systemes du Campus (Integration d'Entreprise)",
+      "note": "Console autonome pour administrer un ecosysteme SaaS de type Banner : pipelines d'integration, automatisation des flux de travail, couches d'experience personnalisee, rapports institutionnels, un atelier SQL et un client API avec une porte de controle des changements."
+    },
     "tatcon": {
       "title": "TATCON-SG",
       "note": "Front-end modernise pour un cabinet de conseil tactique. Repense pour une diffusion mobile d'abord avec une architecture de composants mise a jour."
