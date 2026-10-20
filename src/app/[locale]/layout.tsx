@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import { Inter, JetBrains_Mono } from "next/font/google";
 import { notFound } from "next/navigation";
+import { Analytics } from "@vercel/analytics/next";
 import { locales, isLocale, type Locale } from "@/i18n/config";
 import "../globals.css";
 
@@ -45,6 +46,7 @@ export default function LocaleLayout({
     <html lang={locale} className={`${inter.variable} ${mono.variable}`}>
       <body className="font-sans text-[13px] leading-[1.55] antialiased">
         {children}
+        <Analytics />
       </body>
     </html>
   );
